@@ -52,7 +52,7 @@ class Solution(object):
         :type numRows: int
         :rtype: str
         """
-        if numRows == 1:
+        if numRows == 1 or len(s) == 1:
             return s
 
         out_s = [""] * numRows
