@@ -28,7 +28,7 @@ This repo will be my learning journey!
 | 5 | [Longest Palindromic Substring](https://github.com/Logeswaran123/Leveling-up-Leet/tree/main/%235%20Longest%20Palindromic%20Substring) | MEDIUM | ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) |
 | 6 | [Zigzag Conversion](https://github.com/Logeswaran123/Leveling-up-Leet/tree/main/%236%20Zigzag%20Conversion) | MEDIUM | ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) |
 | 7 | [Reverse Integer](https://github.com/Logeswaran123/Leveling-up-Leet/tree/main/%237%20Reverse%20Integer) | MEDIUM | ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) |
-| 8 | TODO: [String to Integer (atoi)]() | MEDIUM | ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) |
+| 8 | [String to Integer (atoi)](https://github.com/Logeswaran123/Leveling-up-Leet/tree/main/%238%20String%20to%20Integer%20(atoi)) | MEDIUM | ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) |
 | 9 | [Palindrome Number](https://github.com/Logeswaran123/Leveling-up-Leet/tree/main/%239%20Palindrome%20Number) | EASY | ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) |
 
 Happy Learning! :smile: :technologist:
