@@ -1,7 +1,7 @@
 """
 
 ---
-Medium
+MEDIUM
 5. Longest Palindromic Substring
 ---
 

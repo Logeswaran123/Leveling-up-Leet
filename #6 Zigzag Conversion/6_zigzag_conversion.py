@@ -1,7 +1,7 @@
 """
 
 ---
-Medium
+MEDIUM
 6. Zigzag Conversion
 ---
 
