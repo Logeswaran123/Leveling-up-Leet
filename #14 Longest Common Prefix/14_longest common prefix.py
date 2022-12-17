@@ -45,3 +45,34 @@ class Solution(object):
             else:
                 count_matching += 1
         return minimum[:count_matching]
+
+
+## Solution 2
+class Solution(object):
+    def longestCommonPrefix(self, strs):
+        """
+        :type strs: List[str]
+        :rtype: str
+        """
+        minimum, maximum = min(strs), max(strs)
+        i = 0
+        while i < len(minimum):
+            if minimum[i] != maximum[i]:
+                break
+            i += 1
+        return minimum[:i]
+
+
+## Solution 3
+class Solution(object):
+    def longestCommonPrefix(self, strs):
+        """
+        :type strs: List[str]
+        :rtype: str
+        """
+        common_prefix = []
+        for s in zip(*strs):
+            if len(set(s)) != 1:
+                break
+            common_prefix.append(s[0])
+        return ''.join(common_prefix)
