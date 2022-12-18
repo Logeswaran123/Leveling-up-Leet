@@ -1,7 +1,7 @@
 """
 
 ---
-MEDUM
+MEDIUM
 16. 3Sum Closest
 ---
 

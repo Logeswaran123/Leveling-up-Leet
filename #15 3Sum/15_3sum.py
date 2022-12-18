@@ -1,7 +1,7 @@
 """
 
 ---
-MEDUM
+MEDIUM
 15. 3Sum
 ---
 
