@@ -36,7 +36,7 @@ This repo will be my learning journey!
 | 13 | [Roman to Integer](https://github.com/Logeswaran123/Leveling-up-Leet/tree/main/%2313%20Roman%20to%20Integer) | EASY | ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) |
 | 14 | [Longest Common Prefix](https://github.com/Logeswaran123/Leveling-up-Leet/tree/main/%2314%20Longest%20Common%20Prefix) | EASY | ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) |
 | 15 | TODO: [3Sum]() | MEDIUM | ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) |
-| 16 | TODO: [3Sum Closest]() | MEDIUM | ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) |
+| 16 | [3Sum Closest](https://github.com/Logeswaran123/Leveling-up-Leet/tree/main/%2316%203Sum%20Closest) | MEDIUM | ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) |
 | 17 | TODO: [Letter Combinations of a Phone Number]() | MEDIUM | ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) |
 | 18 | TODO: [4Sum]() | MEDIUM | ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) |
 | 19 | TODO: [Remove Nth Node From End of List]() | MEDIUM | ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) |
