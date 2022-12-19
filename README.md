@@ -40,7 +40,7 @@ This repo will be my learning journey!
 | 17 | TODO: [Letter Combinations of a Phone Number]() | MEDIUM | ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) |
 | 18 | TODO: [4Sum]() | MEDIUM | ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) |
 | 19 | [Remove Nth Node From End of List](https://github.com/Logeswaran123/Leveling-up-Leet/tree/main/%2319%20Remove%20Nth%20Node%20From%20End%20of%20List) | MEDIUM | ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) |
-| 20 | TODO: [Valid Parentheses]() | EASY | ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) |
+| 20 | [Valid Parentheses](https://github.com/Logeswaran123/Leveling-up-Leet/tree/main/%2320%20Valid%20Parentheses) | EASY | ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) |
 
 Happy Learning! :smile: :technologist:
 
