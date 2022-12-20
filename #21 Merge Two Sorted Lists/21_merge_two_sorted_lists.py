@@ -113,6 +113,3 @@ class Solution(object):
                 list1, list2 = list2, list1
             list1.next = self.mergeTwoLists(list1.next, list2)
         return list1 or list2
-
-
-## Solution 3
