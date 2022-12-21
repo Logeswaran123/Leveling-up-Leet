@@ -42,6 +42,10 @@ This repo will be my learning journey!
 | 19 | [Remove Nth Node From End of List](https://github.com/Logeswaran123/Leveling-up-Leet/tree/main/%2319%20Remove%20Nth%20Node%20From%20End%20of%20List) | MEDIUM | ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) |
 | 20 | [Valid Parentheses](https://github.com/Logeswaran123/Leveling-up-Leet/tree/main/%2320%20Valid%20Parentheses) | EASY | ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) |
 | 21 | [Merge Two Sorted Lists](https://github.com/Logeswaran123/Leveling-up-Leet/tree/main/%2321%20Merge%20Two%20Sorted%20Lists) | EASY | ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) |
+| 22 | TODO: [Generate Parentheses]() | MEDIUM | ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) |
+| 23 | TODO: [Merge k Sorted Lists]() | HARD | ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) |
+| 24 | TODO: [Swap Nodes in Pairs]() | MEDIUM | ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) |
+| 25 | TODO: [Reverse Nodes in k-Group]() | HARD | ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) |
 
 Happy Learning! :smile: :technologist:
 
