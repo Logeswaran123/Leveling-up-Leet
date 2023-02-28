@@ -46,6 +46,7 @@ This repo will be my learning journey!
 | 23 | TODO: [Merge k Sorted Lists]() | HARD | ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) |
 | 24 | TODO: [Swap Nodes in Pairs]() | MEDIUM | ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) |
 | 25 | TODO: [Reverse Nodes in k-Group]() | HARD | ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) |
+| 149 | TODO: [Max Points on a Line]() | HARD | ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) |
 
 Happy Learning! :smile: :technologist:
 
