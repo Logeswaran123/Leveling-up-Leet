@@ -16,6 +16,11 @@ This repo will be my learning journey!
 ### Big-O Notation
 * NeetCode | Big-O Notation - For Coding Interviews | [Link](https://www.youtube.com/watch?v=BgLTDT03QtU&ab_channel=NeetCode)
 
+### Dynamic Programming
+Dynamic programming works by storing the result of subproblems so that when their solutions are required, they are at hand and we do not need to recalculate them.
+
+This technique of storing the value of subproblems is called <i><b>memoization</b></i>. By saving the values in the array, we save time for computations of sub-problems we have already come across.
+
 ---
 
 ## Problems
