@@ -21,6 +21,14 @@ Dynamic programming works by storing the result of subproblems so that when thei
 
 This technique of storing the value of subproblems is called <i><b>memoization</b></i>. By saving the values in the array, we save time for computations of sub-problems we have already come across.
 
+Dynamic programming by memoization is a top-down approach to dynamic programming. By reversing the direction in which the algorithm works i.e. by starting from the base case and working towards the solution, we can also implement dynamic programming in a bottom-up manner.
+
+Dynamic programming is mostly applied to recursive algorithms. This is not a coincidence, most optimization problems require recursion and dynamic programming is used for optimization.
+
+But not all problems that use recursion can use Dynamic Programming. Unless there is a presence of overlapping subproblems like in the fibonacci sequence problem, a recursion can only reach the solution using a divide and conquer approach.
+
+That is the reason why a recursive algorithm like Merge Sort cannot use Dynamic Programming, because the subproblems are not overlapping in any way.
+
 ---
 
 ## Problems
@@ -56,6 +64,9 @@ This technique of storing the value of subproblems is called <i><b>memoization</
 | 1443 | [Minimum Time to Collect All Apples in a Tree](https://github.com/Logeswaran123/Leveling-up-Leet/tree/main/%231443%20Minimum%20Time%20to%20Collect%20All%20Apples%20in%20a%20Tree) | MEDIUM | ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) |
 | 1472 | [Design Browser History](https://github.com/Logeswaran123/Leveling-up-Leet/tree/main/%231472%20Design%20Browser%20History) | MEDIUM | ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) |
 | 2421 | TODO: [Number of Good Paths]() | HARD | ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) |
+
+## References
+* Dynamic Programming[Programiz Website](https://www.programiz.com/dsa/dynamic-programming)
 
 Happy Learning! :smile: :technologist:
 
