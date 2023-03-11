@@ -40,6 +40,13 @@ Dynamic programming, on the other hand, finds the optimal solution to subproblem
 ---
 
 ## Problems
+
+| Icon | Topic |
+|:----:|:-----:|
+| 🪃 | Dynamic Programming |
+
+<br />
+
 | ID | Title | Difficulty | Languages |
 |:--:|:-----:|:----------:|:---------:|
 | 1 | [Two Sum](https://github.com/Logeswaran123/Leveling-up-Leet/tree/main/%231%20Two%20Sum) | EASY | ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) |
@@ -68,7 +75,7 @@ Dynamic programming, on the other hand, finds the optimal solution to subproblem
 | 24 | TODO: [Swap Nodes in Pairs]() | MEDIUM | ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) |
 | 25 | TODO: [Reverse Nodes in k-Group]() | HARD | ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) |
 | 149 | [Max Points on a Line](https://github.com/Logeswaran123/Leveling-up-Leet/tree/main/%23149%20Max%20Points%20on%20a%20Line) | HARD | ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) |
-| 494 | [Target Sum](https://github.com/Logeswaran123/Leveling-up-Leet/tree/main/%23494%20Target%20Sum) | MEDIUM | ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) |
+| 494 | [Target Sum](https://github.com/Logeswaran123/Leveling-up-Leet/tree/main/%23494%20Target%20Sum) 🪃 | MEDIUM | ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) |
 | 707 | [Design Linked List](https://github.com/Logeswaran123/Leveling-up-Leet/tree/main/%23707%20Design%20Linked%20List) | MEDIUM | ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) |
 | 1443 | [Minimum Time to Collect All Apples in a Tree](https://github.com/Logeswaran123/Leveling-up-Leet/tree/main/%231443%20Minimum%20Time%20to%20Collect%20All%20Apples%20in%20a%20Tree) | MEDIUM | ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) |
 | 1472 | [Design Browser History](https://github.com/Logeswaran123/Leveling-up-Leet/tree/main/%231472%20Design%20Browser%20History) | MEDIUM | ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) |
