@@ -66,8 +66,7 @@ That is the reason why a recursive algorithm like Merge Sort cannot use Dynamic 
 | 2421 | TODO: [Number of Good Paths]() | HARD | ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) |
 
 ## References
-* Dynamic Programming[Programiz Website](https://www.programiz.com/dsa/dynamic-programming)
+* Dynamic Programming | [Programiz Website](https://www.programiz.com/dsa/dynamic-programming)
 
+<br /><br />
 Happy Learning! :smile: :technologist:
-
-
