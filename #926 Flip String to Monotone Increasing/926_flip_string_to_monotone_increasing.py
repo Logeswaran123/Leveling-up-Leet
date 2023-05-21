@@ -39,3 +39,12 @@ s[i] is either '0' or '1'.
 """
 
 ## Solution 1
+class Solution:
+    def minFlipsMonoIncr(self, s: str) -> int:
+        res, count_ones = 0, 0
+        for char in s:
+            if char == "1":
+                count_ones += 1
+            else:
+                res = min(count_ones, 1 + res)
+        return res
