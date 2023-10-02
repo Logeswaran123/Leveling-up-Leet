@@ -81,7 +81,7 @@ Dynamic programming, on the other hand, finds the optimal solution to subproblem
 | 926 | [Flip String to Monotone Increasing](https://github.com/Logeswaran123/Leveling-up-Leet/tree/main/%23926%20Flip%20String%20to%20Monotone%20Increasing) | MEDIUM | ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) |
 | 1443 | [Minimum Time to Collect All Apples in a Tree](https://github.com/Logeswaran123/Leveling-up-Leet/tree/main/%231443%20Minimum%20Time%20to%20Collect%20All%20Apples%20in%20a%20Tree) | MEDIUM | ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) |
 | 1472 | [Design Browser History](https://github.com/Logeswaran123/Leveling-up-Leet/tree/main/%231472%20Design%20Browser%20History) | MEDIUM | ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) |
-| 2359 | TODO: [Find Closest Node to Given Two Nodes]() | HARD | ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) |
+| 2359 | TODO: [Find Closest Node to Given Two Nodes]() | MEDIUM | ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) |
 | 2421 | TODO: [Number of Good Paths]() | HARD | ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) |
 
 ## References
