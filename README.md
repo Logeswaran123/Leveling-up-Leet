@@ -74,7 +74,10 @@ Dynamic programming, on the other hand, finds the optimal solution to subproblem
 | 23 | TODO: [Merge k Sorted Lists]() | HARD | ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) |
 | 24 | TODO: [Swap Nodes in Pairs]() | MEDIUM | ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) |
 | 25 | TODO: [Reverse Nodes in k-Group]() | HARD | ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) |
+| 49 | [Group Anagrams](https://github.com/Logeswaran123/Leveling-up-Leet/tree/main/%2349%20Group%20Anagrams) | MEDIUM | ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) |
 | 149 | [Max Points on a Line](https://github.com/Logeswaran123/Leveling-up-Leet/tree/main/%23149%20Max%20Points%20on%20a%20Line) | HARD | ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) |
+| 217 | [Contains Duplicate](https://github.com/Logeswaran123/Leveling-up-Leet/tree/main/%23217%20Contains%20Duplicate) | EASY | ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) |
+| 242 | [Valid Anagrams](https://github.com/Logeswaran123/Leveling-up-Leet/tree/main/%23242%20Valid%20Anagrams) | EASY | ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) |
 | 472 | TODO: [Concatenated Words]() | HARD | ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) |
 | 494 | [Target Sum](https://github.com/Logeswaran123/Leveling-up-Leet/tree/main/%23494%20Target%20Sum) 🪃 | MEDIUM | ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) |
 | 707 | [Design Linked List](https://github.com/Logeswaran123/Leveling-up-Leet/tree/main/%23707%20Design%20Linked%20List) | MEDIUM | ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) |
