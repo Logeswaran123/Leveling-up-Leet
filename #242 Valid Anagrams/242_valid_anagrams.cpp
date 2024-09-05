@@ -1,4 +1,4 @@
-"""
+/*
 
 ---
 EASY
@@ -30,9 +30,9 @@ s and t consist of lowercase English letters.
 Follow up: What if the inputs contain Unicode characters? How would you adapt your solution to such a case?
 
 
-"""
+*/
 
-## Solution 1
+// Solution 1
 class Solution {
 public:
     bool isAnagram(string s, string t) {
@@ -52,7 +52,7 @@ public:
 };
 
 
-## Solution 2
+// Solution 2
 class Solution {
 public:
     bool isAnagram(string s, string t) {

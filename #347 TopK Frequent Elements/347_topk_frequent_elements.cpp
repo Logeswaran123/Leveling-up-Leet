@@ -1,4 +1,4 @@
-"""
+/*
 
 ---
 MEDIUM
@@ -30,9 +30,9 @@ It is guaranteed that the answer is unique.
 Follow up: Your algorithm's time complexity must be better than O(n log n), where n is the array's size.
 
 
-"""
+*/
 
-## Solution 1
+// Solution 1
 class Solution {
 public:
     vector<int> topKFrequent(vector<int>& nums, int k) {
@@ -59,7 +59,7 @@ public:
 };
 
 
-## Solution 2
+// Solution 2
 class Solution {
 public:
     static bool func(pair<int, int> a, pair<int, int> b) {

@@ -1,4 +1,4 @@
-"""
+/*
 
 ---
 EASY
@@ -29,9 +29,9 @@ Constraints:
 -109 <= nums[i] <= 109
 
 
-"""
+*/
 
-## Solution 1
+// Solution 1
 class Solution {
 public:
     bool containsDuplicate(vector<int>& nums) {
@@ -48,7 +48,7 @@ public:
 };
 
 
-## Solution 2
+// Solution 2
 class Solution {
 public:
     bool containsDuplicate(vector<int>& nums) {

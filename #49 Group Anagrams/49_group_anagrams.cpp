@@ -1,4 +1,4 @@
-"""
+/*
 
 ---
 MEDIUM
@@ -32,9 +32,9 @@ Constraints:
 strs[i] consists of lowercase English letters.
 
 
-"""
+*/
 
-## Solution 1
+// Solution 1
 class Solution {
 public:
     vector<vector<string>> groupAnagrams(vector<string>& strs) {
@@ -64,7 +64,7 @@ public:
 };
 
 
-## Solution 2
+// Solution 2
 class Solution {
 public:
     vector<vector<string>> groupAnagrams(vector<string>& strs) {
