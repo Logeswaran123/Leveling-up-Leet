@@ -76,3 +76,31 @@ class Solution(object):
                 else: # nums[left] + nums[right] > target:
                     right -= 1
         return res
+
+## Solution 2
+class Solution:
+    def threeSum(self, nums: List[int]) -> List[List[int]]:
+        nums.sort()
+        res = []
+
+        for i, a in enumerate(nums):
+            if a > 0: # If pointer crosses 0 in sorted array
+                break
+
+            if i>0 and nums[i-1] == a: # Skip Duplicates
+                continue
+
+            l, r = i+1, len(nums)-1
+            while (l<r):
+                summed = a + nums[l] + nums[r]
+
+                if (summed>0): r-=1
+                elif (summed<0): l+=1
+                else:
+                    res.append([a, nums[l], nums[r]])
+                    l+=1
+                    r-=1
+                    while nums[l] == nums[l-1] and l<r: # Skip Duplicates
+                        l+=1
+
+        return res
