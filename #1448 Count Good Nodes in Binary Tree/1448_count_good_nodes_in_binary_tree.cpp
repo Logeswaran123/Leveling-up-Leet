@@ -44,3 +44,36 @@ Each node's value is between [-10^4, 10^4].
 */
 
 // Solution 1
+// Logic:
+// Total good nodes = 1 (root) + good nodes in left subtree + good nodes in right subtree
+//
+/**
+ * Definition for a binary tree node.
+ * struct TreeNode {
+ *     int val;
+ *     TreeNode *left;
+ *     TreeNode *right;
+ *     TreeNode() : val(0), left(nullptr), right(nullptr) {}
+ *     TreeNode(int x) : val(x), left(nullptr), right(nullptr) {}
+ *     TreeNode(int x, TreeNode *left, TreeNode *right) : val(x), left(left), right(right) {}
+ * };
+ */
+class Solution {
+public:
+    int dfs(TreeNode* node, int max_val) {
+        if (!node) return 0;     // breaking condition: node is null
+
+        // Check if the current node is a "good" node
+        int good = (node->val >= max_val) ? 1 : 0;   // 1 If node value is greater than maximum of its parent nodes, else 0
+
+        max_val = max(max_val, node->val);
+        good += dfs(node->left, max_val);   // left subtree
+        good += dfs(node->right, max_val);  // right subtree
+        return good;
+    }
+
+    int goodNodes(TreeNode* root) {
+        if (!root) return 0;
+        return dfs(root, root->val);    // Start from the first node
+    }
+};
