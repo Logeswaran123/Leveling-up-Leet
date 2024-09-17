@@ -41,7 +41,7 @@ grid[i][j] is '0' or '1'.
 """
 
 ## Solution 1
-# Solution with Recursive DFS. Good to look at.
+# Solution with Recursive DFS. Good to look at. Also look at #695
 #
 # Logic:
 # Input grid:
