@@ -54,7 +54,6 @@ grid[i][j] is one of {-1, 0, 2147483647}
 //
 // The problem is that std::unordered_set is using std::hash template to compute hashes for its entries 
 // and there is no std::hash specialization for pairs. So, we have to define our own custom function.
-// Custom hash function for pair<int, int>
 //
 // Input Grid:
 // [
@@ -175,6 +174,7 @@ grid[i][j] is one of {-1, 0, 2147483647}
 //   [0, -1,  3,  4]
 // ]
 //
+// Custom hash function for pair<int, int>
 struct PairHash {
     size_t operator()(const pair<int, int>& p) const {
         return hash<int>()(p.first) ^ (hash<int>()(p.second) << 1);
