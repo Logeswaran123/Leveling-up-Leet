@@ -50,6 +50,9 @@ grid[i][j] is one of {-1, 0, 2147483647}
 */
 
 // Solution 1
+// Multisource BFS
+// Similar to #994
+//
 // Good to look at this problem (common question). Solution uses custom hash function.
 //
 // The problem is that std::unordered_set is using std::hash template to compute hashes for its entries 

@@ -50,6 +50,8 @@ grid[i][j] is one of {-1, 0, 2147483647}
 """
 
 ## Solution 1
+# Multisource BFS
+# Similar to #994
 #
 # Input Grid:
 # [
