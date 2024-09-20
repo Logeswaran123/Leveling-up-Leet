@@ -37,7 +37,7 @@ All the pairs prerequisites[i] are unique.
 """
 
 ## Solution 1
-# Good to look at this problem.
+# Similar to #210 (Topological Sort). Good to look at this problem.
 #
 # The problem asks whether it's possible to finish all courses given their prerequisites.
 # We can represent the courses as nodes in a graph, where an edge from node A to node B means course A depends on course B.
