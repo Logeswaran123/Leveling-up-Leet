@@ -35,6 +35,7 @@ Constraints:
 """
 
 ## Solution 1
+# Similar to #684
 # Union Find with Path Compression. Good to look at this problem.
 # Kinda confusing at first glance.
 #
