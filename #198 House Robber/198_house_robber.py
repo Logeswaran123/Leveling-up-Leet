@@ -60,6 +60,7 @@ Constraints:
 #   - Update n1 = n2 (11), and n2 = temp (12)
 #
 # After iterating through all houses, Return n2 (12), which is the maximum money we can rob.
+#
 class Solution:
     def rob(self, nums: List[int]) -> int:
         n1, n2 = 0, 0
