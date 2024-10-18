@@ -37,7 +37,7 @@ Constraints:
 """
 
 ## Solution 1
-## Bottom-up Dynamix Programming
+## Bottom-up Dynamic Programming
 #
 # Example:
 # coins = [1, 2, 5]
