@@ -52,6 +52,8 @@ class Solution:
 
 ## Solution 2
 ## Efficient Solution
+import bisect
+
 class Solution:
     def lengthOfLIS(self, nums: List[int]) -> int:
         p = 1   # Length of the longest increasing subsequence
@@ -66,6 +68,6 @@ class Solution:
             # Use binary search (bisect_left) to find the position where `n` should be placed in the existing
             # increasing subsequence, ensuring that `nums` maintains a valid increasing subsequence up to `p-1`.
             # We replace the element at that position with `n`.
-            nums[bisect_left(nums, n, hi=p - 1)] = n
+            nums[bisect.bisect_left(nums, n, hi=p - 1)] = n
 
         return p
